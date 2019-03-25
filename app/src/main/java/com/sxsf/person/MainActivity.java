@@ -1,4 +1,4 @@
-package com.today.step;
+package com.sxsf.person;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -14,9 +14,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.today.step.lib.ISportStepInterface;
-import com.today.step.lib.TodayStepManager;
-import com.today.step.lib.TodayStepService;
+import com.sxsf.person.lib.ISportStepInterface;
+import com.sxsf.person.lib.TodayStepManager;
+import com.sxsf.person.lib.TodayStepService;
 
 public class MainActivity extends AppCompatActivity {
 

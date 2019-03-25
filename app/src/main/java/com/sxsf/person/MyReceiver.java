@@ -1,9 +1,9 @@
-package com.today.step;
+package com.sxsf.person;
 
 import android.content.Context;
 import android.content.Intent;
 
-import com.today.step.lib.BaseClickBroadcast;
+import com.sxsf.person.lib.BaseClickBroadcast;
 
 public class MyReceiver extends BaseClickBroadcast {
 

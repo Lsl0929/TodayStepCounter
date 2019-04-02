@@ -24,8 +24,8 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile libraries.supportAppCompat
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation libraries.supportAppCompat
     implementation project(':base-lib-notification')
     implementation project(':lib-jlogger')
 //    implementation project(':lib-encrypt')
